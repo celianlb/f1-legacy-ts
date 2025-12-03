@@ -49,7 +49,6 @@ Votre mission : intervenir **comme des consultants**.
 
 - Nouveau code plus propre, typé, organisé
 - Patterns réellement implémentés
-- Pas nécessaire de tout refaire : concentrez-vous sur ce qui est le plus critique / le plus sale
 
 ### 4. Petit README final
 
