@@ -11,7 +11,7 @@ très difficile à maintenir.
 - Aucun pattern n'est appliqué.
 - Les principes SOLID ne sont pas respectés.
 
-Votre mission (en binôme si vous le souhaitez) : intervenir **comme des consultants**.
+Votre mission : intervenir **comme des consultants**.
 
 ---
 
